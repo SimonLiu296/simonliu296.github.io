@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+## 欢迎来到刘飞扬的GitHub页面
 
-You can use the [editor on GitHub](https://github.com/SimonLiu296/simonliu296.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+你可以使用 [GitHub上的编辑器 ](https://github.com/SimonLiu296/simonliu296.github.io/edit/main/README.md)来维护和预览Markdown文件中的网站内容.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+每当你提交到这个存储库时，GitHub Pages就会运行 [Jekyll ](https://jekyllrb.com/)，从Markdown文件中的内容重新构建你站点中的页面.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown是一种轻量级和易于使用的语法，用于样式化你的写作。它包括以下约定：
 
 ```markdown
-Syntax highlighted code block
+语法突出显示代码块
 
-# Header 1
-## Header 2
-### Header 3
+# 标题 1
+## 标题 2
+### 标题 3
 
-- Bulleted
-- List
+- 项目符号
+- 列表
 
-1. Numbered
-2. List
+1. 编号
+2. 列表
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[链接](url) and ![图片](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+有关更多详细信息，请参阅 [基本写作和格式化语法](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+### Jekyll主题
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SimonLiu296/simonliu296.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+您的Pages站点将使用您在 [存储库设置 ](https://github.com/SimonLiu296/simonliu296.github.io/settings/pages)中选择的Jekyll主题的布局和样式。这个主题的名称保存在_config.yml配置文件.
 
-### Support or Contact
+### 支持或联系
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+页面有矛盾吗?查看我们的 [文档](https://docs.github.com/categories/github-pages-basics/) 或 [联系支持](https://support.github.com/contact) ，我们将帮助您解决问题.
