@@ -1,6 +1,6 @@
 ### 您当前处于[根目录](../)下 **video** 路径
 
-你可以在 [GitHub](https://github.com/SimonLiu296/simonliu296.github.io) 上来预览网站全部内容.
+你可以在 [GitHub](https://github.com/SimonLiu296/simonliu296.github.io) 上来查看网站详细内容.
 
 # 光遇视频
 
