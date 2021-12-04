@@ -6,6 +6,7 @@
 
 
 
+<link rel="stylesheet" href="https://cdn.bootcss.com/dplayer/1.25.0/DPlayer.min.css" />
 <div id="dplayer"></div>
 <script src="./DPlayer.min.js"></script>
 <script>const dp = new DPlayer({
