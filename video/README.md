@@ -10,11 +10,30 @@
 <script src="./DPlayer.min.js"></script>
 <script>const dp = new DPlayer({
     container: document.getElementById('dplayer'),
+    autoplay: true, // 不自动播放
+    theme: '#FADFA3', // 主题
+    loop: true, // 循环播放
+    lang: 'zh-cn', // 语言
+    hotkey: true, // 热键
+    preload: 'auto', // 预加载
+    volume: 0.5, // 音量
     video: {
         url: './data/2021112721343.mp4',
     },
+    // 视频右键菜单
+    contextmenu: [
+        {
+            text: '关于作者simonliu296',
+            link: 'https://github.com/simonliu296',
+        },
+        {
+            text: 'dplayer',
+            click: (player) => {
+                console.log(player);
+            },
+        },
+    ],
 });
 </script>
-
 
 
