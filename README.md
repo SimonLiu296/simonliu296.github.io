@@ -2,7 +2,7 @@
 
 你可以在 [GitHub](https://github.com/SimonLiu296/simonliu296.github.io) 上来查看网站详细内容.
 
-+++
+---
 
 ---
 
