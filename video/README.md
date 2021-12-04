@@ -7,6 +7,7 @@
 
 
 <link rel="stylesheet" href="https://cdn.bootcss.com/dplayer/1.25.0/DPlayer.min.css" />
+
 <div id="dplayer"></div>
 <script src="./DPlayer.min.js"></script>
 <script>const dp = new DPlayer({
@@ -18,6 +19,7 @@
     hotkey: true, // 热键
     preload: 'auto', // 预加载
     volume: 0.5, // 音量
+    mutex: true, // 多个视频互斥
     video: {
         url: './data/2021112721343.mp4',
     },
