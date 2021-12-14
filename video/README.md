@@ -10,6 +10,7 @@
 
 <div id="dplayer"></div>
 <script src="./DPlayer.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
 <script>const dp = new DPlayer({
     container: document.getElementById('dplayer'),
     autoplay: true, // 不自动播放
@@ -21,12 +22,13 @@
     volume: 0.5, // 音量
     mutex: true, // 多个视频互斥
     video: {
-        url: './data/2021112721343.mp4',
+        url: './data/dataindex.m3u8',
+        type: 'hls'
     },
     // 视频右键菜单
     contextmenu: [
         {
-            text: '关于作者simonliu296',
+            text: '关于simonliu296',
             link: 'https://github.com/simonliu296',
         },
         {
@@ -38,5 +40,6 @@
     ],
 });
 </script>
+
 
 
