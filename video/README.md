@@ -22,7 +22,7 @@
     volume: 0.5, // 音量
     mutex: true, // 多个视频互斥
     video: {
-        url: './data/dataindex.m3u8',
+        url: './data/index.m3u8',
         type: 'hls'
     },
     // 视频右键菜单
@@ -40,6 +40,5 @@
     ],
 });
 </script>
-
 
 
