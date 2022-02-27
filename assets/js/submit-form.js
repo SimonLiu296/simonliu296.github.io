@@ -3,9 +3,8 @@ $("#submit").click(
 		var name=document.getElementById("name").value,
 			email=document.getElementById("email").value,
 			message=document.getElementById("message").value;
-		alert(name + email + message + "All right!");
+		alert("提交失败！\n服务器终止提交");
 		
-		self.location = "https://cn.bing.com/";
 		// window.location.href = ;
 		return true;
 	})
